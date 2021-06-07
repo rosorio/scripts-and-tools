@@ -8,7 +8,7 @@ A tool to enphase patterns in string output.
 ## Why
 Because sometimes it's not that easy to find patterns in long strings, and grep doesn't help you.
 
-Examples:
+## Examples
 
     $ echo "The fox jumps over the lazy dog" | en lazy
 
