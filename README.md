@@ -1,7 +1,7 @@
 # Scripts and Tools
 
 ## En (enphase)
-Usage: Em [pattern] [pattern] ....
+Usage: En [pattern] [pattern] ....
 
 A tool to enphase patterns in string output.
 
